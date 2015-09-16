@@ -1,5 +1,5 @@
 --stuff
-achivements = {
+achievements = {
   {"Food horder.", "Collect 100 food.", score = 0 },
   {"Nice buffet", "Have more than 5 types of food", score=0},
   {"Worlds biggest BBQ.", "Barn catches on fire.", score = 0 },
